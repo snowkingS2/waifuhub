@@ -11332,7 +11332,7 @@ spawn(function()
             if game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149052" or game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149431" then
                 wait(2.0)
                 OrionLib:MakeNotification({
-                    Name = "tên cần đổi",
+                    Name = "HentaiZ hub",
                     Content = "Turn Off Hop Find Moon Please",
                     Image = "rbxassetid://8192162908",
                     Time = 5
@@ -11348,7 +11348,7 @@ spawn(function()
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709150401" then
                 Hop()
                 OrionLib:MakeNotification({
-                    Name = "tên cần đổi",
+                    Name = "HentaiZ hub",
                     Content = "Hop Server",
                     Image = "rbxassetid://8192162908",
                     Time = 5
@@ -11356,7 +11356,7 @@ spawn(function()
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149680" then
                 Hop()
                 OrionLib:MakeNotification({
-                    Name = "tên cần đổi",
+                    Name = "HentaiZ hub",
                     Content = "Hop Server",
                     Image = "rbxassetid://8192162908",
                     Time = 5
@@ -11402,7 +11402,7 @@ end)
 OrionLib:Init()
 
 OrionLib:MakeNotification({
-    Name = "tên cần đổi",
+    Name = "HentaiZ hub",
     Content = "Loading Config Complete!!",
     Image = "rbxassetid://8192162908",
     Time = 5
